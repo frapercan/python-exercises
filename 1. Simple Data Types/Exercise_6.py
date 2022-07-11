@@ -1,0 +1,2 @@
+# Write a program that reads a positive integer, n , entered by the user and then displays on the screen the sum of all
+# integers from 1 to n .The sum of the n first positive integers can be calculated as the formula #1:

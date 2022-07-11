@@ -1,0 +1,1 @@
+# Write a program that displays on the screen the result of the arithmetic operation #1.
